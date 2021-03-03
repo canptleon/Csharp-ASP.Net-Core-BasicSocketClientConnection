@@ -1,0 +1,13 @@
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.exe
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.deps.json
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.runtimeconfig.json
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.runtimeconfig.dev.json
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.dll
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\bin\Debug\netcoreapp3.1\SocketExample1.pdb
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.AssemblyInfo.cs
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.dll
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.pdb
+C:\Users\ardak\source\repos\SocketExample1\SocketExample1\obj\Debug\netcoreapp3.1\SocketExample1.genruntimeconfig.cache

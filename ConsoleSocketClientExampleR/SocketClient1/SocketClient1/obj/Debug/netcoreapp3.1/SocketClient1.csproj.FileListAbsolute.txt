@@ -1,0 +1,13 @@
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.exe
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.deps.json
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.runtimeconfig.json
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.runtimeconfig.dev.json
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.dll
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\bin\Debug\netcoreapp3.1\SocketClient1.pdb
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.csprojAssemblyReference.cache
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.AssemblyInfoInputs.cache
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.AssemblyInfo.cs
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.csproj.CoreCompileInputs.cache
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.dll
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.pdb
+C:\Users\ardak\source\repos\SocketClient1\SocketClient1\obj\Debug\netcoreapp3.1\SocketClient1.genruntimeconfig.cache
